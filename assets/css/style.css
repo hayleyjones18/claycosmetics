@@ -1,16 +1,16 @@
-div{
-    background-color: white;
-}
+
+
+
 
 body{
     background-color: #FCF4EA;
 }
 
 .logo{
-    background: url("../images/new\ font\ logo.png");
-    background-position: center;
+    background: url("../images/new-font-logo.png");
+    background-position: left 0px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 200px;
     min-height: 360px;
 
     
