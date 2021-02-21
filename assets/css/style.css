@@ -6,12 +6,10 @@ body{
     background-color: #FCF4EA;
 }
 
-.logo{
-    background: url("../images/new-font-logo.png");
-    background-position: left 0px;
-    background-repeat: no-repeat;
-    background-size: 200px;
-    min-height: 360px;
-
+img{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform: translate( -50%, -50%);
     
 }
