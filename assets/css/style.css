@@ -56,15 +56,20 @@ footer {
 .handlogo{
     width: 31px;
     height: 34.5px;
-    left:20px;
 }
 
-}
+.social-links{
 
-.clayfooter{
-    font-size: 10pt;
-    position: fixed; left: 20px;
+    position: absolute;
+    left: 20px;
     
-
 }
 
+.social-links li a i{
+    width: 50px;
+    height: 50px;
+    background-size: 50%;
+    padding: 30px;
+    padding-left: 20px;
+    color: black;
+}
