@@ -76,7 +76,8 @@ footer {
 }
 
 .btn-primary {
-    padding: 5px 15px;
+    padding: 10px 10px;
+    width: 39%;
     border: 0 none;
     font-weight: 700;
     letter-spacing: 1px;
