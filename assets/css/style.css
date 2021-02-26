@@ -88,6 +88,11 @@ footer {
 }
 
 .editorialimage{
-    width: 1000px;
-    height:469px;
+    width: 666px;
+    height:312px;
+}
+
+.my-col{
+    border: 1px solid blue;
+    
 }
