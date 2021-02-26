@@ -23,6 +23,7 @@ body{
     letter-spacing: 1px;
 }
 
+
 .mainlogo{
     position:fixed;
     top:50%;
@@ -38,10 +39,9 @@ section{
 
 
 footer {
-    background-color: white;
+    background-color:#ffeedc;
     width: 100%;
-    border-top: 2px solid black;
-   
+       
     
     /* position:fixed;bottom:0;left:0;right:0;height:100px; */
     
@@ -68,7 +68,7 @@ footer {
 ​
 .mailing-form input[type=text] {
     padding: 10px;
-    border: 1px solid red;
+    border: 1px solid #a1b894;
     width: 100%;
     background: #fafafa;
 }
@@ -84,5 +84,6 @@ footer {
 
 
 .mybg{
-    background-color: red;
+    background-color: #ffeedc;
 }
+
