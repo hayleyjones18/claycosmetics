@@ -31,8 +31,8 @@ body{
 
 
 .mainlogo{
-    position:fixed;
-    top:50%;
+    position: absolute;
+    top:70%;
     left:50%;
     transform: translate( -50%, -50%);
     widows: 100px;
@@ -47,9 +47,10 @@ section{
 footer {
     background-color:#ffeedc;
     width: 100%;
+    position: relative;
+    top: 200px;
        
     
-    /* position:fixed;bottom:0;left:0;right:0;height:100px; */
     
 }
 /* footer logo */
@@ -150,12 +151,26 @@ footer {
 /* information section */
 #claylogo{
     position: relative;
-    top: 100px;
+    top: 150px;
+    right: 100px;
+    width: 650px;
+    height: 270px;
+
 }
 /* picture section */
 
     
 #picturesection{
     position: relative;
-    top: 300px;
+    top: 400px;
+
+}
+
+.hayley{
+    height: 300px;
+    width: 300px;
+    
+}
+.hayley:hover{
+    background-color: white;
 }

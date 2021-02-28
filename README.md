@@ -1,4 +1,7 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+Picture of woman source https://unsplash.com/s/photos/vegan-beauty
+
+
 
 Welcome hayleyjones18,
 
