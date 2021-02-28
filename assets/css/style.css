@@ -23,9 +23,11 @@ body{
     letter-spacing: 1px;
 }
 
-.nav-link{
-    
+.navbar-expand-lg .navbar-nav .nav-link {
+       padding-right: 8.5rem;
+    padding-left: 5.5rem
 }
+  
 
 
 .mainlogo{
