@@ -27,9 +27,13 @@ body{
        padding-right: 8.5rem;
     padding-left: 5.5rem
 }
+
+.mybg{
+    background-color: white;
+    border-bottom: solid #f39a82 1px;
+    
+}
   
-
-
 .mainlogo{
     position: absolute;
     top:70%;
@@ -94,10 +98,6 @@ footer {
 }
 
 
-.mybg{
-    background-color: white;
-    border-bottom: solid #f39a82 1px;
-}
 /* top section of page */
 .beauty-woman{
     width: 600px;
@@ -171,8 +171,12 @@ footer {
 }
 
 #meet-the-team{
-    position: relative;
-    left: 100x;
+text-align: center;
+  
+}
+
+.teampictures{
+    top: 50px;
 }
 
 .hayley{
@@ -182,4 +186,22 @@ footer {
 }
 .hayley:hover{
     background-color: white;
+}  
+
+/* Shop Page */
+
+.shop-image{
+    object-fit: cover;
+    width: 1450px;
+    height: 500px;
+    position: relative; right: 20px; 
+
 }
+
+#mycontainer{
+    width: 1450px;
+    height: 500px;
+    position: relative; right: 150px;
+    
+}
+
