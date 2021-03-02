@@ -100,47 +100,17 @@ footer {
 
 /* top section of page */
 
-.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
-    width: 100%;
-    padding-left: -18px;
-    margin-right: auto;
-    margin-left: 15px;
-}
-
 .beauty-woman{
-    width: 600px;
-    height: 435px;
+    max-width: 100%;
+  height auto;
     position: relative;
-  top: 50px;
-  float: left 10px;
-}
-
-.about-brand{
-    position: relative;
-    top: 50px;
-}
-
-.aboutinfo{
-    position: relative;
-    top: 50px;
 }
 
 .abouttitle{
    font-family: Arial, Helvetica, sans-serif;
 }
 
-.find-beauty-in-nature{
-    position: absolute;
-    left: 270px;
-    top: 200px;
-    font-size: 40px;
-}
-
-    p{
-    margin-top: 1px;
-    margin-bottom: 1rem;
-    padding: 0;
-    margin: 0}
+    
 /* top section of page */
 
 
