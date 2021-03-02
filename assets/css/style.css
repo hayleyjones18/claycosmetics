@@ -114,6 +114,14 @@ footer {
    font-family: Arial, Helvetica, sans-serif;
 }
 
+.h4{
+       margin-bottom: 50px;
+    font-weight: 1000;
+    line-height: 100px;
+}
+p{
+    margin-bottom: 50px;
+}
     
 /* top section of page */
 
