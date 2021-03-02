@@ -99,10 +99,15 @@ footer {
 
 
 /* about page */
+.my-container{
+    position: relative;
+    top: 30px;
+}
 
 .beauty-woman{
     max-width: 100%;
     position: relative;
+    
 }
 
 .abouttitle{
@@ -120,27 +125,8 @@ footer {
     top: 100px;
 }
 
-#infosection{
-    position: relative;
-    top: 40px;
-}
-.minimalism{
-    position: relative;
-    bottom: 150px;
-
-}
-.ingredients{
-    position: relative;
-    left: 10%;
-}
-.beauty-giving{
-    position: relative;
-    bottom: 70px;
-}
     /* Team Pictures */
-#picturesection{
-   align-items: center;
-}
+  
 
 #meet-the-team{
 text-align: center;
@@ -163,4 +149,5 @@ text-align: center;
     position: relative; right: 150px;
     
 }
+
 
