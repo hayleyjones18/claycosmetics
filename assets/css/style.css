@@ -6,14 +6,9 @@
     box-sizing: border-box;
 }
 
-/* .logosymbol{
-    position: relative;
-    left: 20px;
-    float: left;
-    width: 50px;
-    height: 50px;
-} */
-
+#shop-container, #shop-container-lg, #shop-container-xl {
+    max-width: 2000px;
+}
 
 body{
     background-color: white;
@@ -215,6 +210,11 @@ text-align: center;
     height: 100%;
 }
 
+/* -----Sustaible page */
+video {
+  width: 100%;
+  height: auto;
+}
 /* ------Contact Page-------- */
 
 .contactpic{
