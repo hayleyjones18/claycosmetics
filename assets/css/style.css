@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+
 #shop-container, #shop-container-lg, #shop-container-xl {
     max-width: 2000px;
 }
@@ -91,6 +93,11 @@ footer {
 
 
 /* about page */
+#about-container{
+     position: relative;
+    top: 30px;
+
+}
 h1{
     padding: 3px;
 }
@@ -108,6 +115,10 @@ h1{
 
 .abouttitle{
    font-family: 'Shippori Mincho B1', serif;
+}
+
+.beautynature{
+    font-family: 'Homemade Apple', sans-serif;
 }
 
 @media (min-width: 1400px) {
@@ -144,6 +155,11 @@ p{
 #meet-the-team{
 text-align: center;
   
+}
+
+.picturesection{
+    position: relative;
+    top: 50px;
 }
 
 /* Shop Page */
