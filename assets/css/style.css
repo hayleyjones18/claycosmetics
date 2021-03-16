@@ -48,6 +48,7 @@ footer {
     position: relative;
     top: 100px;
     border-top: solid #f39a82 1px;
+    height: 120px;
        }
 
        h5{
@@ -68,6 +69,11 @@ footer {
    
 }
 
+.list-inline-item {
+    display: inline-block;
+    padding: 0;
+}
+
 /* subscribe form  */
 .mailing-form,
 .mailing-text {
@@ -80,17 +86,22 @@ footer {
     border: 1px solid #a1b894;
     width: 100%;
     background: #fafafa;
+    height: 50px;
 }
 ​
 .mailing-form button {
     width: 20%;
     padding: 10px;
-    background: blue;
+    height: 50px;
+    
     color: #fafafa;
     border: 1px solid black;
     cursor: pointer;
 }
-
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #f39a82;
+    border: 0;
+}
 
 /* about page */
 #about-container{
@@ -98,9 +109,10 @@ footer {
     top: 30px;
 
 }
-h1{
-    padding: 3px;
+h1, h2{
+    padding: 7px;
 }
+
 
 .my-container{
     position: relative;
