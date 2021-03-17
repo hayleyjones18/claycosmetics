@@ -37,6 +37,12 @@ body{
     height: auto;
         }
 
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+    
+
 section{
     min-height: 80vh;
 }
@@ -78,7 +84,9 @@ footer {
 .mailing-form,
 .mailing-text {
     display: flex;
-    width: 100%;
+     width: 100px;
+    height: 55px;
+    
 }
 /* ​subscription input in footer */
 .mailing-form input[type=text] {
@@ -86,22 +94,24 @@ footer {
     border: 1px solid #a1b894;
     width: 100%;
     background: #fafafa;
+     width: 300px;
     height: 50px;
+    
 }
 ​
 .mailing-form button {
     width: 20%;
     padding: 10px;
-    height: 50px;
-    
     color: #fafafa;
     border: 1px solid black;
     cursor: pointer;
 }
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #f39a82;
+.btn-primary{
+ background-color: #f39a82;
     border: 0;
 }
+
+
 
 /* about page */
 #about-container{

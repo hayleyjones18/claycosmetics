@@ -1,4 +1,4 @@
-Clay Cosmetics
+#Clay Cosmetics
 
 This website is about a natural vegan friendly product called - Clay Cosmetics.
 This product provides a range of beauty products the vary from skin care to make-up.
@@ -9,7 +9,7 @@ The user is able to contact the company and send a message if they have any ques
 is able to see where the company is located with the map provided.
 
 
-UX
+#UX
 My goal is to creat a user-friendly interative Data-Centric Development project. I want to keep my overall website
 white and black as the actualy product has splashes of colour and I think the white background couples
 up with the clean product that Clay Cosmetics is promoting.
@@ -19,9 +19,9 @@ User Stories
 
 "As a user, I want"
 
-<ul>
-<li>To visit a website where I can easily view products and find information about the product </li><
-/ul>
+
+*To visit a website where I can easily view products and find information about the product 
+
 
 
 Picture of woman source https://unsplash.com/s/photos/vegan-beauty
