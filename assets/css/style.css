@@ -66,6 +66,10 @@ footer {
     width: 31px;
     height: 34.5px;
 }
+
+.remove-margins{
+    margin:0;
+}
 /* social media links in footer */
 .social-links li a i{
     width: 50px;
@@ -81,12 +85,7 @@ footer {
 }
 
 /* subscribe form  */
-.mailing-form,
-.mailing-text {
-    display: flex;
-   
-    
-}
+
 /* ​subscription input in footer */
 .mailing-form input[type=text] {
     padding: 10px;
@@ -294,4 +293,8 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+}
+
+.remove-margins {
+    margin: 0;
 }
