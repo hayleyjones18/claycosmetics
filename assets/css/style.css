@@ -4,49 +4,65 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
 
-#shop-container, #shop-container-lg, #shop-container-xl {
+#shop-container,
+#shop-container-lg,
+#shop-container-xl {
     max-width: 2000px;
 }
 
-body{
+body {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
-    color: black; 
+    color: black;
     font-size: 1rem;
     letter-spacing: 1px;
 }
-@media (min-width: 992px){
-.navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 7.5rem;
-    padding-left: 2.5rem;
-}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 2.5rem;
+        padding-left: 2.5rem;
+    }
 }
 
-.mybg{
+.mybg {
     background-color: white;
     border-bottom: solid #f39a82 1px;
-    
 }
-  
-.mainlogo{
+
+#index-hero-img {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    width: 100%;
+    max-width: 40em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+/*
+.mainlogo {
     position: absolute;
-    top:70%;
-    left:50%;
-    transform: translate( -50%, -50%);
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     widows: 100px;
     height: auto;
-        }
+}
 
 .responsive {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
-    
+*/
 
+
+/*
 section{
     min-height: 80vh;
 }
+*/
 
+/*
 
 footer {
     background-color: white;
@@ -57,28 +73,34 @@ footer {
     height: 120px;
     padding-left: 0%;
     padding-right: 0%;
-       }
+}
+*/
 
-       h5{
-           position: relative;
-           top: 10px;
-       }
+footer {
+    border-top: solid #f39a82 1px;
+}
+
+h5 {
+    position: relative;
+    top: 10px;
+}
+
 /* footer logo */
-.handlogo{
-    width: 31px;
-    height: 34.5px;
+.handlogo {
+    width: 3em;
+    height: auto;
 }
 
-.remove-margins{
-    margin:0;
+.remove-margins {
+    margin: 0;
 }
+
 /* social media links in footer */
-.social-links li a i{
+.social-links li a i {
     width: 50px;
     height: 50px;
     color: black;
-    size: 100px;
-   
+    font-size: 1.5em;
 }
 
 .list-inline-item {
@@ -88,15 +110,15 @@ footer {
 
 /* subscribe form  */
 
-/* ​subscription input in footer */
+/* subscription input in footer */
 .mailing-form input[type=text] {
     padding: 10px;
     border: 1px solid #a1b894;
     width: 100%;
     background: #fafafa;
-   
+
 }
-​
+
 .mailing-form button {
     width: 20%;
     padding: 10px;
@@ -104,98 +126,112 @@ footer {
     border: 1px solid black;
     cursor: pointer;
 }
-.btn-primary{
- background-color: #f39a82;
+
+.btn-primary {
+    background-color: #f39a82;
     border: 0;
 }
 
 /* about page */
-#about-container{
-     position: relative;
+#about-container {
+    position: relative;
     top: 30px;
 
 }
-h1, h2{
+
+h1,
+h2 {
     padding: 7px;
 }
 
 
-.my-container{
+.my-container {
     position: relative;
     top: 30px;
 }
 
-.beauty-woman{
+.beauty-woman {
     max-width: 100%;
     position: relative;
-    
+
 }
 
-.abouttitle{
-   font-family: 'Shippori Mincho B1', serif;
-}
-.brand-planet{
-     font-family: 'Shippori Mincho B1', serif;
+.abouttitle {
+    font-family: 'Shippori Mincho B1', serif;
 }
 
-.beautynature{
+.brand-planet {
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+.beautynature {
     font-family: 'Homemade Apple', sans-serif;
 }
 
 @media (min-width: 1400px) {
-.row-about-2, .row-about-2-lg{
-    padding: 70px; 
 
+    .row-about-2,
+    .row-about-2-lg {
+        padding: 70px;
+
+    }
 }
-}
-.row-about-2{
+
+.row-about-2 {
     margin-top: 40px;
 }
 
-.h4{
+.h4 {
     margin-bottom: 50px;
     font-weight: 1000;
     line-height: 100px;
 }
-p{
+
+p {
     margin-bottom: 50px;
 }
-    
+
 /* top section of page */
 
 
 /* information section */
 
-.my-container-2{
+.my-container-2 {
     position: relative;
     top: 100px;
 }
 
-    /* Team Pictures */
-  
-#meet-the-team{
-text-align: center;
-  
+/* Team Pictures */
+
+#meet-the-team {
+    text-align: center;
+
 }
 
-.picturesection{
+.picturesection {
     position: relative;
     top: 50px;
 }
 
-/* Shop Page */
-.shop{
+/* ----------------- Shop Page ----------------- */
+.shop {
     padding: 1%;
 }
 
-.shop-image{
+.shop-image {
     object-fit: cover;
     width: 100%;
     height: 300px;
-    position: relative; 
-      object-fit: cover;
+    position: relative;
+    object-fit: cover;
 
 }
+
+.product-hover:hover .overlay {
+    opacity: 1;
+}
+
+/*
 
 .product1:hover .overlay {
   opacity: 1;
@@ -223,81 +259,100 @@ text-align: center;
 .product7:hover .overlay {
   opacity: 1;
 }
+*/
 
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .1s ease;
-  background-color: #a1b894;}
-
-  .text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
+.img-cover {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
 }
 
-.bottles{
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .1s ease;
+    background-color: #a1b894b3;
+}
+
+.text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.bottles {
     width: 100%;
     height: 100%;
 }
 
 /* -----Sustaible page */
 video {
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
+
 /* ------Contact Page-------- */
 
-.contactpic{
+.contactpic {
     width: 1600px;
-    height:1910px ;
+    height: 1910px;
 }
 
 /* Style inputs with type="text", select elements and textareas */
-input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    /* Full width */
+    padding: 12px;
+    /* Some padding */
+    border: 1px solid #ccc;
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded borders */
+    box-sizing: border-box;
+    /* Make sure that padding and width stays in place */
+    margin-top: 6px;
+    /* Add a top margin */
+    margin-bottom: 16px;
+    /* Bottom margin */
+    resize: vertical
+        /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-  background-color: #45a049;
+    background-color: #45a049;
 }
 
 /* Add a background color and some padding around the form */
 .container .inputform {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
 }
 
 .remove-margins {
@@ -305,11 +360,11 @@ input[type=submit]:hover {
 }
 
 
-
 .small-image {
-   height: 300px;
-   display: block;
-   margin: 0 auto;
+    max-height: 30em;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
 }
 
 @media (min-width: 576px) {
@@ -320,11 +375,25 @@ input[type=submit]:hover {
 
 @media (max-width: 576px) {
     h1 {
-        font-size:30px;
+        font-size: 30px;
         font-weight: bold;
-        
+
     }
 }
 
+video {
+    height: 30em;
+    width: 100%;
+}
+
+
+/*------------- Contact Us Section --------------*/
+#contact-us-hero-section {
+    background-image: url('../images/Contact-clay.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 30em;
+}
 
 
