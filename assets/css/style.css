@@ -301,3 +301,15 @@ input[type=submit]:hover {
 .remove-margins {
     margin: 0;
 }
+
+
+
+.small-image {
+   height: 300px;
+}
+
+@media (min-width: 576px) {
+    .small-image {
+        height: auto;
+    }
+}
