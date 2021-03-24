@@ -306,9 +306,11 @@ input[type=submit]:hover {
 
 .small-image {
    height: 300px;
+   display: block;
+   margin: 0 auto;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     .small-image {
         height: auto;
     }
