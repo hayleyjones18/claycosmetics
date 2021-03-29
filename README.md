@@ -1,4 +1,4 @@
-#Clay Cosmetics
+# Clay Cosmetics
 
 This website is about a natural vegan friendly product called - Clay Cosmetics.
 This product provides a range of beauty products the vary from skin care to make-up.
