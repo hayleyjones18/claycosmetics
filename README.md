@@ -11,7 +11,7 @@ is able to see where the company is located with the map provided.
 </p>
 
 <p align="center">
-    <img src="assets/assets/images/Website-mock-up.jpg" alt="logo">
+    <img src="assets/images/Website-mock-up.jpg" alt="logo">
 </p>
 
 
