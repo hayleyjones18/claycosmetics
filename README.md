@@ -7,7 +7,7 @@ infomation behind the story of the company and its values. The company not only 
 to show their customer what they are doing in the beauty world to be sustainable and cruelty free.
 The user is able to contact the company and send a message if they have any questions about the product and 
 is able to see where the company is located with the map provided.
-
+[Mock-up of website]{Website-mock-up}
 
 #UX
 My goal is to creat a user-friendly interative Data-Centric Development project. I want to keep my overall website
