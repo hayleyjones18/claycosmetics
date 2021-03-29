@@ -15,15 +15,19 @@ white and black as the actualy product has splashes of colour and I think the wh
 up with the clean product that Clay Cosmetics is promoting.
 
 
-User Stories
+#User Stories
 
 "As a user, I want"
 
+*To visit a website where I can easily view products with the prices
+*To visit a website where I can read about the company 
+*To find out about their brand and their values
+*Find out who the people who run the compnay are
+*To visit the website on different devices such as Mobile, Laptop and Ipad. 
 
-*To visit a website where I can easily view products and find information about the product 
+#Design
 
-
-
+#Credits
 Picture of woman source https://unsplash.com/s/photos/vegan-beauty
 
 

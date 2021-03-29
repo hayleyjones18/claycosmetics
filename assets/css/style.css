@@ -231,6 +231,11 @@ p {
     opacity: 1;
 }
 
+.hand{
+    height: 40%;
+    width: 40%;
+   
+}
 /*
 
 .product1:hover .overlay {
@@ -298,13 +303,13 @@ p {
     height: 100%;
 }
 
-/* -----Sustaible page */
+/* -----------------------------------Sustaible page */
 video {
     width: 100%;
     height: auto;
 }
 
-/* ------Contact Page-------- */
+/* -----------------------------------Contact Page-------- */
 
 .contactpic {
     width: 1600px;
