@@ -132,11 +132,10 @@ h5 {
     border: 0;
 }
 
-/* about page */
+/*-------------------------------about page ----------*/
 #about-container {
     position: relative;
     top: 30px;
-
 }
 
 h1,
@@ -160,11 +159,7 @@ h2 {
     font-family: 'Shippori Mincho B1', serif;
 }
 
-.brand-planet {
-    font-family: 'Shippori Mincho B1', serif;
-}
-
-.beautynature {
+.homemade-apple-font {
     font-family: 'Homemade Apple', sans-serif;
 }
 
@@ -208,9 +203,8 @@ p {
 
 }
 
-.picturesection {
-    position: relative;
-    top: 50px;
+.product-hover-pink{
+    
 }
 
 /* ----------------- Shop Page ----------------- */
@@ -233,8 +227,11 @@ p {
 
 .hand{
     height: 40%;
-    width: 40%;
-   
+    width: 40%;  
+}
+
+.product-text-hover{
+    font-family: 'Shippori Mincho B1', serif;
 }
 /*
 
@@ -307,6 +304,10 @@ p {
 video {
     width: 100%;
     height: auto;
+}
+
+.brand-planet {
+    font-family: 'Shippori Mincho B1', serif;
 }
 
 /* -----------------------------------Contact Page-------- */
