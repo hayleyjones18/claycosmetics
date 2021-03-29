@@ -302,6 +302,11 @@ video {
     height: auto;
 }
 
+video {
+    height: 30em;
+    width: 100%;
+}
+
 .brand-planet {
     font-family: 'Shippori Mincho B1', serif;
 }
@@ -337,7 +342,7 @@ textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #f39a82;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -347,7 +352,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #a1b894;
 }
 
 /* Add a background color and some padding around the form */
@@ -369,6 +374,15 @@ input[type=submit]:hover {
     margin: 0 auto;
 }
 
+/*------------- Contact Us Section --------------*/
+#contact-us-hero-section {
+    background-image: url('../images/Contact-clay.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 30em;
+}
+
 @media (min-width: 576px) {
     .small-image {
         height: auto;
@@ -379,23 +393,4 @@ input[type=submit]:hover {
     h1 {
         font-size: 30px;
         font-weight: bold;
-
     }
-}
-
-video {
-    height: 30em;
-    width: 100%;
-}
-
-
-/*------------- Contact Us Section --------------*/
-#contact-us-hero-section {
-    background-image: url('../images/Contact-clay.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    min-height: 30em;
-}
-
-

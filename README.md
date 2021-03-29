@@ -69,26 +69,29 @@ you can find out where Clay Cosmetics is located
 ### Error Page 
 
 (need to write)
-# Credits
-All the pictures were taken from Adobe Stock, Unplash. 
 
 # Technologies Used
 
-*HTML
-*CSS 
-*Bootstrap (4.3.1)
-*Font Awesome (5.11.2)
-*Google Fonts
+* HTML
+* CSS 
+* Bootstrap (4.3.1)
+* Font Awesome (5.11.2)
+* Google Fonts
 
-#Features
+# Features
 
 (not sure what this is about)
 
-#Testng
+#T estng
 
 * [W3C HTML Validator](https://validator.w3.org/) to validate HTML 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * I tested it using Chrome developer tools and different devices. 
+
+# Credit:
+
+* All the pictures were taken from Adobe Stock, Unplash.
+* W3school for input email form
 
 
 
