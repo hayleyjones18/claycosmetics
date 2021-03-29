@@ -37,7 +37,7 @@ up with the clean product that Clay Cosmetics is promoting.
 
 <p> I used Balsamiq to create my wireframes for my website here is a
 </p>
-<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/assets/Docs/Wireframe-Desktop>< link here/a>
+<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Link</a>
 
 # Credits
 Picture of woman source https://unsplash.com/s/photos/vegan-beauty
