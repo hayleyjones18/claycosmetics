@@ -100,7 +100,7 @@ I finally then added some 'script' font called Homemade+Apple, I feel that this 
 # Branding idea and mood board.
 
 <p align="center">
-    <img src="assets/images/Brand-pageV2.jpg" alt="logo">
+    <img src="assets/images/Brand-page V2.jpg" alt="logo">
 </p>
 
 
