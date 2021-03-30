@@ -52,12 +52,39 @@ This website is;
 *To find out about their brand and their values
 *Find out who the people who run the compnay are
 *To visit the website on different devices such as Mobile, Laptop and Ipad. 
--
+
 # Design
 
-<p> I used Balsamiq to create my wireframes for my website. Please click on the link below to acess the wireframe folder.
+<p>When designing this website I looked at other beauty or fashion websites to get an understanding of their approaches of design.
+I took into consideration of how I felt when visiting a page and what I liked to see on a website. I found a lot of beauty and fashion 
+websites are minimal with little colour. They will often use white as their background colour which I personally prefer as a user.
 </p>
+
+## Colour
+
+<p> I chose to use white as the main colour for my design. I found that using white refected my 'minimal' and 'sustainable' brand.
+I created the logo myself which gave me the freedom to spefically choose the colour style and theme throughout the website. The branding colours 
+has a rich Orange with complimenting calmer tones such as the light Pink and Green. This combination creates a harmony that can add with each
+page, so the website has flashes of colour that is subtle but not too overloaded.
+</p>
+
+## logo
+
+<p> I created the main logo based on two letter 'C's' that stand for 'Clay Cosmetics' I wanted have a logo that had a reflection of the name of 
+the brand. Circular symbols also denote togethernes and harmony, so by making this logo a cirlce it also gave the website a calm feel. This is something
+very important through this site. As the whole brand represents being good to one's self and being to the planet.
+</p>
+
+<p align="center">
+    <img src="assets/images/logo-symbo.png" alt="logo">
+</p>
+
+
+
+<p> I used Balsamiq to create my wireframes for my website. Please click on the link below to acess the wireframe folder.
 <a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Link</a>
+</p>
+Ï
 
 ### Homepage
 
