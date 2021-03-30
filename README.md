@@ -106,7 +106,7 @@ I finally then added some 'script' font called Homemade+Apple, I feel that this 
 
 # Wireframes
 <p> I used Balsamiq to create my wireframes for my website. Please click on the link below to acess the wireframe folder.
-<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Click here to access wireframe files/a>
+<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Click here to access wireframe folder
 </p>
  
  # About website pages
@@ -138,6 +138,7 @@ This page has an input form where you can send an email to the Clay Cosmetic tea
 you can find out where Clay Cosmetics is located
 </p>
 
+
 ### Error Page 
 
 (need to write)
@@ -152,9 +153,69 @@ you can find out where Clay Cosmetics is located
 
 # Features
 
-(not sure what this is about)
+<p> This site is a 5 page navigation website with various sections on each page. 
+This includes an input form to contact the brand. A map to find out where the company is located, and a video feature on sustainable page 
+to add to the calming effect.
+</p>
 
-#T estng
+# Error page
+
+# Testng
+
+## Debugging
+### Solved bugs
+
+<p> My entire content of my website had an overflow on everypage. I was left with white space on 
+the left on my screen</p>
+
+<p> To solve this problem I used the Chromb devl tools to detect the error and became aware of a container that was
+placed outside of my footer tage. I now know that my container tag needs to be nested inside of my footer after speaking to other coders
+and the research online</p>
+
+<p><<footer>
+    <div class="container"> 
+​
+        <div class="row align-items-start">
+            <div class="col-8">
+                <h5>2021 Clay Cosmetics</h5>
+            </div>
+        </div>
+​
+        <div class="row ">
+            <div class="col-8 align-items-bottom">
+                <ul class="list-inline-item social-links">
+                    <li class="list-inline-item">
+                        <img src="assets/images/Hand-logo 500px.png" class="handlogo">
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="#">
+                            <i class="fab fa-instagram" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="#">
+                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="#">
+                            <i class="fab fa-youtube" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-4">
+                <form class="mailing-form" action="">
+                    <input type="text" placeholder="Email Address..." name="subscribe">
+                    <button class="btn btn-primary" type="submit">
+                        Subscribe
+                    </button>
+                </form>
+            </div>
+        </div>
+        
+    </div>
+</footer>/p>
 
 * [W3C HTML Validator](https://validator.w3.org/) to validate HTML 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
