@@ -23,16 +23,36 @@ up with the clean product that Clay Cosmetics is promoting.
 
 </p>
 
+## Ideal Visitor
+
+### For this brand
+
+* Disposable Income
+* Interested in sustainable products
+* A person who is interested in looking after their skin
+
+## Visitors to the site are searching for 
+
+* Make-up and skin care products
+* To purchase a gift
+
+##This project is the best way to help them achieve these things because
+
+This website is;
+* Easy to navigate
+* Has a clear layout with evenly spaced text and content
+* Informs visitors about the product ingredients beging sold
+
+
 # User Stories
 
-"As a user, I want"
-
+* As a new user to the website I want to easily navigate the site, so I can find what I need effectivly.
 *To visit a website where I can easily view products with the prices
 *To visit a website where I can read about the company 
 *To find out about their brand and their values
 *Find out who the people who run the compnay are
 *To visit the website on different devices such as Mobile, Laptop and Ipad. 
-
+-
 # Design
 
 <p> I used Balsamiq to create my wireframes for my website. Please click on the link below to acess the wireframe folder.
