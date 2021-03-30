@@ -104,13 +104,12 @@ I finally then added some 'script' font called Homemade+Apple, I feel that this 
 </p>
 
 
-
-
-
+# Wireframes
 <p> I used Balsamiq to create my wireframes for my website. Please click on the link below to acess the wireframe folder.
-<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Link</a>
+<a href=https://github.com/hayleyjones18/claycosmetics/tree/master/Docs/Wireframe-Desktop>Click here to access wireframe files/a>
 </p>
-Ï
+ 
+ # About website pages
 
 ### Homepage
 
