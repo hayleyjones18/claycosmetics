@@ -172,50 +172,7 @@ the left on my screen</p>
 placed outside of my footer tage. I now know that my container tag needs to be nested inside of my footer after speaking to other coders
 and the research online</p>
 
-<p><<footer>
-    <div class="container"> 
-​
-        <div class="row align-items-start">
-            <div class="col-8">
-                <h5>2021 Clay Cosmetics</h5>
-            </div>
-        </div>
-​
-        <div class="row ">
-            <div class="col-8 align-items-bottom">
-                <ul class="list-inline-item social-links">
-                    <li class="list-inline-item">
-                        <img src="assets/images/Hand-logo 500px.png" class="handlogo">
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fab fa-instagram" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a target="_blank" href="#">
-                            <i class="fab fa-youtube" aria-hidden="true"></i>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-4">
-                <form class="mailing-form" action="">
-                    <input type="text" placeholder="Email Address..." name="subscribe">
-                    <button class="btn btn-primary" type="submit">
-                        Subscribe
-                    </button>
-                </form>
-            </div>
-        </div>
-        
-    </div>
-</footer>/p>
+<p></p>
 
 * [W3C HTML Validator](https://validator.w3.org/) to validate HTML 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
