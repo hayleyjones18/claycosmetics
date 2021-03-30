@@ -74,10 +74,36 @@ page, so the website has flashes of colour that is subtle but not too overloaded
 the brand. Circular symbols also denote togethernes and harmony, so by making this logo a cirlce it also gave the website a calm feel. This is something
 very important through this site. As the whole brand represents being good to one's self and being to the planet.
 </p>
-
-<p align="center">
-    <img src="assets/images/logo-symbo.png" alt="logo">
+<p
+   <img src="assets/images/logo-symbo.png" alt="logo">
 </p>
+
+<p> The hand is a representation of clay. I wanted to combine the making of clay to the logo and the product.
+As the product has all natural ingredientds such as clay being natural and from the earth, so instead of having an image
+of actual clay, I wanted a more subtle connotation.
+</p>
+
+<p
+   <img src="assets/images/Hand-logo 500px.png" alt="logo">
+</p>
+
+## Font
+
+<p> I used two main for throughout my site. For my Title I used a font called 'Shippori+Mincho' which is a serif font.
+I really like serif fonts for luxurious websites, I think it gives a more expensive feel and more editorial. I like how they use 
+serif fonts in Vogue magazine which is matched with a sans serif font. In this case I used Montserrat as I am aware after some research that
+Montserrat font is a strong, clear web font to use.I think it is important to not go too over board with body text as the user needs to be able to read and understand what they are reading.
+I finally then added some 'script' font called Homemade+Apple, I feel that this just added a homemade, hands effect to the site and brand.
+</p>>
+
+# Branding idea and mood board.
+
+<p
+   <img src="assets/images/Brand-page V2.jpg" alt="logo">
+</p>
+
+
+
 
 
 
