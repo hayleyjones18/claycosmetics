@@ -74,8 +74,9 @@ page, so the website has flashes of colour that is subtle but not too overloaded
 the brand. Circular symbols also denote togethernes and harmony, so by making this logo a cirlce it also gave the website a calm feel. This is something
 very important through this site. As the whole brand represents being good to one's self and being to the planet.
 </p>
-<p
-   <img src="assets/images/logo-symbo.png" alt="logo">
+
+<p align="center">
+    <img src="assets/images/logo-symbo.png" alt="logo">
 </p>
 
 <p> The hand is a representation of clay. I wanted to combine the making of clay to the logo and the product.
@@ -83,8 +84,8 @@ As the product has all natural ingredientds such as clay being natural and from 
 of actual clay, I wanted a more subtle connotation.
 </p>
 
-<p
-   <img src="assets/images/Hand-logo 500px.png" alt="logo">
+<p align="center">
+    <img src="assets/images/Hand-logo 500px.png" alt="logo">
 </p>
 
 ## Font
@@ -98,10 +99,9 @@ I finally then added some 'script' font called Homemade+Apple, I feel that this 
 
 # Branding idea and mood board.
 
-<p
-   <img src="assets/images/Brand-page V2.jpg" alt="logo">
+<p align="center">
+    <img src="assets/images/Brand-pageV2.jpg" alt="logo">
 </p>
-
 
 
 
