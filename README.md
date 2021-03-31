@@ -23,20 +23,20 @@ up with the clean product that Clay Cosmetics is promoting.
 
 </p>
 
-## Ideal Visitor
+### Ideal Visitor
 
-### For this brand
+#### For this brand
 
 * Disposable Income
 * Interested in sustainable products
 * A person who is interested in looking after their skin
 
-## Visitors to the site are searching for 
+### Visitors to the site are searching for 
 
 * Make-up and skin care products
 * To purchase a gift
 
-##This project is the best way to help them achieve these things because
+### This project is the best way to help them achieve these things because
 
 This website is;
 * Easy to navigate
@@ -53,14 +53,14 @@ This website is;
 *Find out who the people who run the compnay are
 *To visit the website on different devices such as Mobile, Laptop and Ipad. 
 
-# Design
+### Design
 
 <p>When designing this website I looked at other beauty or fashion websites to get an understanding of their approaches of design.
 I took into consideration of how I felt when visiting a page and what I liked to see on a website. I found a lot of beauty and fashion 
 websites are minimal with little colour. They will often use white as their background colour which I personally prefer as a user.
 </p>
 
-## Colour
+### Colour
 
 <p> I chose to use white as the main colour for my design. I found that using white refected my 'minimal' and 'sustainable' brand.
 I created the logo myself which gave me the freedom to spefically choose the colour style and theme throughout the website. The branding colours 
@@ -68,7 +68,7 @@ has a rich Orange with complimenting calmer tones such as the light Pink and Gre
 page, so the website has flashes of colour that is subtle but not too overloaded.
 </p>
 
-## logo
+### logo
 
 <p> I created the main logo based on two letter 'C's' that stand for 'Clay Cosmetics' I wanted have a logo that had a reflection of the name of 
 the brand. Circular symbols also denote togethernes and harmony, so by making this logo a cirlce it also gave the website a calm feel. This is something
@@ -88,7 +88,7 @@ of actual clay, I wanted a more subtle connotation.
     <img src="assets/images/Hand-logo 500px.png" alt="logo">
 </p>
 
-## Font
+### Font
 
 <p> I used two main for throughout my site. For my Title I used a font called 'Shippori+Mincho' which is a serif font.
 I really like serif fonts for luxurious websites, I think it gives a more expensive feel and more editorial. I like how they use 
@@ -145,11 +145,34 @@ you can find out where Clay Cosmetics is located
 
 # Technologies Used
 
+### Languages
+
 * HTML
 * CSS 
+
+### Websites
+
 * Bootstrap (4.3.1)
 * Font Awesome (5.11.2)
 * Google Fonts
+* Slack - Used during development and testing to find the solutions to problems enountered, getting help from other developers.
+* Code Institute. Used to review concepts covered in preceding modules and walk-through projects.
+* Google Chrome Developer Tools. Used throughout the project to test the responsiveness of elements, 
+to target and apply CSS styles during the design phase and to test the site's performance once built.
+* Github. Used to host the deployed site and used as a respository for all previous versions of the build.
+* Gitpod. Used to build and develop the website.
+* W3C CSS Validation Service. Used to validate the CSS file.
+* W3C HTML Validation Service. Used to validate the HTML files.
+* W3 Schools- To access code and to learn how to tackle new code.
+
+### Software 
+
+* Photoshop - to mock up my website onto computer screens
+* Balsamiq - To create wireframes
+
+### Frameworkds
+
+* Bootstrap Framework. Used to structure the website layout and ensure that it was responsive on all devices.
 
 # Features
 
@@ -190,6 +213,8 @@ I had a col , this isn't needed as I had col-sm-12 and then col-md-12 <---- col 
 * [W3C HTML Validator](https://validator.w3.org/) to validate HTML 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * I tested it using Chrome developer tools and different devices. 
+
+I used the
 
 # Credit:
 
