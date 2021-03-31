@@ -85,7 +85,7 @@ of actual clay, I wanted a more subtle connotation.
 </p>
 
 <p align="center">
-    <img src="assets/images/Hand-logo 500px.png" alt="logo">
+    <img src="assets/images/Hand-logo.png" alt="logo">
 </p>
 
 ### Font
@@ -185,7 +185,7 @@ to add to the calming effect.
 
 # Testng
 
-## Debugging
+### Debugging
 ### Solved bugs
 
 <p>1: My entire content of my website had an overflow on everypage. I was left with white space on 
@@ -214,7 +214,22 @@ I had a col , this isn't needed as I had col-sm-12 and then col-md-12 <---- col 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * I tested it using Chrome developer tools and different devices. 
 
-I used the
+<p> I used the the W3C  HTML Validator to validate my HTML code I was faced with some errors on every page. 
+This error was an "alt" problem. I had not added an value to my alt attribute, so once this had been amened, these problems were fixed.
+</p>
+
+<p> An error was found with another img tag and my img file name had a space. I corrected this by simply removing the space and adjusting this 
+new renamed image file to all relevant pages </p>
+
+<p align="center">
+    <img src="assets/images/Img-space-error.png" alt="space-error-img">
+</p>
+
+
+<p> In my Sustainability and contact page I had a warning telling me that in my video and map sections html code sI hadn't 
+used any heading elements within it. It's a semantic warning. I chose to wish ignore it as I didnt think it was needed as I did not want a heading to go with
+my video. </p>
+
 
 # Credit:
 
