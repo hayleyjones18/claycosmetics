@@ -165,14 +165,27 @@ to add to the calming effect.
 ## Debugging
 ### Solved bugs
 
-<p> My entire content of my website had an overflow on everypage. I was left with white space on 
+<p>1: My entire content of my website had an overflow on everypage. I was left with white space on 
 the left on my screen</p>
 
 <p> To solve this problem I used the Chromb devl tools to detect the error and became aware of a container that was
 placed outside of my footer tage. I now know that my container tag needs to be nested inside of my footer after speaking to other coders
 and the research online</p>
 
-<p></p>
+<p>< 2: After resolving the footer bug. I still had an overflow on my Sustainability page. I again used the dev tools to find the bug
+and was able to find that on the sustainability.html page the container was closed prematurely, And there was a stray row, existing on it's own 
+outside of the normal structure/p>
+
+<p>The way this bug was solved is by Nesting that row inside that container which stopped the overflow </p>
+
+<p> 3: When I thought my overflow issue was solved, I found another overflow on my contact page again. This time, this 
+issue was due to my col's so I have a hero image at the top of the page. And for that row and the proceeding for with the form, 
+I had a col , this isn't needed as I had col-sm-12 and then col-md-12 <---- col being the smallest thing will allocate the elements
+ as much space as it needs meaning it never gets to the col-sm-12 
+</p>
+
+<p>To fix this I had to remove the col and also add a Bootstrap class to the image element
+ called img-fluid <-- this will make sure the image is responsive.</p>
 
 * [W3C HTML Validator](https://validator.w3.org/) to validate HTML 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -180,8 +193,51 @@ and the research online</p>
 
 # Credit:
 
+## Code used from websites
+
+* Email form on contact page [W3 School](https://www.w3schools.com/howto/howto_css_contact_form.asp) Contact form
+* Navigation bar [Bootstrap Nav Bar](https://getbootstrap.com/docs/4.4/components/navbar/) Nav Bar
+
+## Content
+
+The text, images, links and other data in the database was sourced from various local websites including but not limiting too.
+
 * All the pictures were taken from Adobe Stock, Unplash.
 * W3school for input email form
+* Website that inspired my text content [Kjarweis](https://kjaerweis.com/blogs/magasinet/hygge)
+* Website inspired text [Sweaty Betty](https://www.sweatybetty.com/responsibility)
+* Video credited from [Youtube Video](https://www.youtube.com/watch?v=r3fE6FQT82s&t=46s)
+
+# Deployment 
+
+<p> This project was developed using github which is committed to git and pushed to github using the 
+built in system</p>
+
+<p> To deploy this page to Github pages from its Github repository, the following steps were taken</p>
+
+1. Login to Github
+2. From the list of repositories on the screen, select 'Clay Cosmetics'.
+3. From the menu items near the top of the page, select settings.
+4. Scroll down to Github pages section.
+5. Under source click the dropdown menu labelled 'none' and select 'master branch'
+6. On selecting master branch the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to github pages section to retreive the link to the deployed website.
+
+# How to run locally 
+
+## To clone this project into gitpod you will need:
+
+1. A github account. [Create a github account here](https://github.com/)
+2: Use the Chrome browser
+
+## Then follow these steps:
+
+1: Install the Git pod browser extentions for Chromb
+2: After installation, restart the browser
+3: log into gitpod with your gitpod account
+4: Navigate to the project github repository
+5: Click the green 'gitpod' button in the top right corner of the repository.
+6: This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
 
 
 
