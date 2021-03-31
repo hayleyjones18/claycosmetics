@@ -170,7 +170,7 @@ to target and apply CSS styles during the design phase and to test the site's pe
 * Photoshop - to mock up my website onto computer screens
 * Balsamiq - To create wireframes
 
-### Frameworkds
+### Frameworks
 
 * Bootstrap Framework. Used to structure the website layout and ensure that it was responsive on all devices.
 
