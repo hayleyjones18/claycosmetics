@@ -232,7 +232,7 @@ my video. </p>
 <p>I had to move width and height attributes from HTML to CSS in my Iframe tag as this was causing an error</p>
 
 <p align="center">
-    <img src="assets/images/Irame-error.png" alt="iframe-error">
+    <img src="assets/images/Iframe-error.png" alt="iframe-error">
 </p>
 
 
