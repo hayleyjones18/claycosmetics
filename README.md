@@ -141,7 +141,7 @@ you can find out where Clay Cosmetics is located
 
 ### Error Page 
 
-(need to write)
+Added a 404 page for visitors to be directed to if they clicked on the wrong page
 
 # Technologies Used
 
@@ -181,8 +181,6 @@ This includes an input form to contact the brand. A map to find out where the co
 to add to the calming effect.
 </p>
 
-# Error page
-
 # Testng
 
 ### Debugging
@@ -214,6 +212,8 @@ I had a col , this isn't needed as I had col-sm-12 and then col-md-12 <---- col 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 * I tested it using Chrome developer tools and different devices. 
 
+#### HTML Validator
+
 <p> I used the the W3C  HTML Validator to validate my HTML code I was faced with some errors on every page. 
 This error was an "alt" problem. I had not added an value to my alt attribute, so once this had been amened, these problems were fixed.
 </p>
@@ -225,10 +225,28 @@ new renamed image file to all relevant pages </p>
     <img src="assets/images/Img-space-error.png" alt="space-error-img">
 </p>
 
-
 <p> In my Sustainability and contact page I had a warning telling me that in my video and map sections html code sI hadn't 
 used any heading elements within it. It's a semantic warning. I chose to wish ignore it as I didnt think it was needed as I did not want a heading to go with
 my video. </p>
+
+<p>I had to move width and height attributes from HTML to CSS in my Iframe tag as this was causing an error</p>
+
+<p align="center">
+    <img src="assets/images/Irame-error.png" alt="iframe-error">
+</p>
+
+
+#### CSS Validator 
+
+<p>the validator threw -webkit-transform & -ms-transform as a warning but I got it from running your css through an 
+autoprefixer to ensure cross browser optimisation.</p>
+
+import error is telling me that the validation can't perform a validation on those as they are 
+explicit import from an externally hosted file.
+
+<p align="center">
+    <img src="assets/images/CSS-error.png" alt="iframe-error">
+</p>
 
 
 # Credit:
