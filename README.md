@@ -228,16 +228,16 @@ built in system</p>
 ## To clone this project into gitpod you will need:
 
 1. A github account. [Create a github account here](https://github.com/)
-2: Use the Chrome browser
+2. Use the Chrome browser
 
 ## Then follow these steps:
 
-1: Install the Git pod browser extentions for Chromb
-2: After installation, restart the browser
-3: log into gitpod with your gitpod account
-4: Navigate to the project github repository
-5: Click the green 'gitpod' button in the top right corner of the repository.
-6: This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
+1. Install the Git pod browser extentions for Chromb
+2. After installation, restart the browser
+3. log into gitpod with your gitpod account
+4. Navigate to the project github repository
+5. Click the green 'gitpod' button in the top right corner of the repository.
+6. This will trigger a new gitpod workspace to be created from the code in github where you can work locally.
 
 
 

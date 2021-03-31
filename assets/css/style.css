@@ -311,6 +311,11 @@ video {
     font-family: 'Shippori Mincho B1', serif;
 }
 
+.map{
+    width:100%;
+    height: 450; 
+    border: 0;
+}
 /* -----------------------------------Contact Page-------- */
 
 .contactpic {
@@ -394,3 +399,4 @@ input[type=submit]:hover {
         font-size: 30px;
         font-weight: bold;
     }
+}
