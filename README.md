@@ -1,6 +1,6 @@
 # Clay Cosmetics
 
-[Clay Cosmetics deploy link](https://hayleyjones18.github.io/claycosmetics/)
+[Clay Cosmetics Depployed Link](https://hayleyjones18.github.io/claycosmetics/)
 <p>
 This website is about a natural vegan friendly product called - Clay Cosmetics.
 This product provides a range of beauty products the vary from skin care to make-up.
@@ -272,6 +272,8 @@ The text, images, links and other data in the database was sourced from various 
 * Video credited from [Youtube Video](https://www.youtube.com/watch?v=r3fE6FQT82s&t=46s)
 
 # Deployment 
+
+You can access my deployed page [Here](https://hayleyjones18.github.io/claycosmetics/)
 
 <p> This project was developed using github which is committed to git and pushed to github using the 
 built in system</p>
