@@ -1,5 +1,6 @@
 # Clay Cosmetics
 
+[Clay Cosmetics deploy link](https://hayleyjones18.github.io/claycosmetics/)
 <p>
 This website is about a natural vegan friendly product called - Clay Cosmetics.
 This product provides a range of beauty products the vary from skin care to make-up.
